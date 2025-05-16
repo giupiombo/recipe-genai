@@ -41,7 +41,7 @@ The next steps for this project include building a user interface to integrate t
 
 ---
 
-## 🇧🇷 Recipe Finder com GenAI
+# 🇧🇷 Recipe Finder com GenAI
 
 Este é um projeto em Python criado usando o Google Gemini e o Google AI Developer Kit (ADK) no Google Colab para fornecer recomendações de receitas e bebidas.
 
